@@ -81,6 +81,16 @@ function App() {
             </div>
                                   
        }
+       <h1>Our Authentication</h1>
+       <form action="">
+        <input type="text" placeholder="Enter your email address" required/>
+        <br/>
+        <input type="password" placeholder="Enter your password" required/>
+        <br/>
+        <input type="submit" value="Submit"/>
+
+
+       </form>
        
     </div>
   );
